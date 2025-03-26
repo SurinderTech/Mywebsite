@@ -36,8 +36,8 @@ Welcome to **SKF Names**, an AI-powered agency specializing in **automation setu
 | Frontend | React.js (Next.js), Tailwind CSS, GSAP |
 | Backend | Node.js (Express) or Python (FastAPI/Django) |
 | Database | PostgreSQL / Firebase |
-| Hosting | Vercel, Netlify, or AWS |
-| Payments | Stripe / Razorpay |
+| Hosting | Hostinger |
+| Payments | Stripe/ Razorpay |
 
 ---
 
@@ -46,7 +46,7 @@ Welcome to **SKF Names**, an AI-powered agency specializing in **automation setu
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/yourusername/skf-names.git
-cd skf-names
+cd project
 
 
 
