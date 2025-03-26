@@ -59,5 +59,5 @@ npm start
 📧 Contact
 📩 Email: surinderkumar3182@gmail.com
 🌐 Website: https://skfouondation.com
-🐦 Twitter: surinderkumr
-🔗 LinkedIn: surinderkumar
+🐦 Twitter: https://x.com/Surinde51827363
+🔗 LinkedIn: https://www.linkedin.com/in/surinder-kumar-948343321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
