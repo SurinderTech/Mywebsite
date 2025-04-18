@@ -1,6 +1,6 @@
 # 🚀 SKF  - AI Agency
 
-Welcome to **SKF Names**, an AI-powered agency specializing in **automation setups, web development, and AI software development**. This repository contains the full-source code of our **dynamic, futuristic, and interactive website** with a modern neon UI.  
+Welcome to **SKF **, an AI-powered agency specializing in **automation setups, web development, and AI software development**. This repository contains the full-source code of our **dynamic, futuristic, and interactive website** with a modern neon UI.  
 
 ---
 
